@@ -6,7 +6,7 @@ StarlingX Election
 +-----------------+--------------------------+--------------------------+
 | Events          | Start Date               | End Date                 |
 +=================+==========================+==========================+
-| TSC Nominations | May 27, 2019 23:45 UTC   | June 2, 2019 23:45 UTC   |
+| TSC Nominations | May 26, 2019 23:45 UTC   | June 2, 2019 23:45 UTC   |
 +-----------------+--------------------------+--------------------------+
 | TSC Campaign    | June 2, 2019 23:45 UTC   | June 9, 2019 23:45 UTC   |
 +-----------------+--------------------------+--------------------------+
@@ -47,7 +47,7 @@ defined by the `TSC charter`_ document.
 
 The electorate is requested to confirm their email address in gerrit,
 review.opendev.org > Settings > Contact Information > Preferred Email,
-prior to May 24, 2019 00:00 UTC deadline so that the emailed ballots are mailed
+prior to May 31, 2019 00:00 UTC deadline so that the emailed ballots are mailed
 to the correct email address.
 
 The electorate is expected to abide by the following general resolution:
