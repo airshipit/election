@@ -51,8 +51,7 @@ prior to May 31, 2019 00:00 UTC deadline so that the emailed ballots are mailed
 to the correct email address.
 
 The electorate is expected to abide by the following general resolution:
-https://governance.openstack.org/resolutions/20140711-election-activities.html.
-
+https://docs.starlingx.io/governance/resolutions/20190520_election_activities.html
 
 Candidates
 ==========
