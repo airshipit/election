@@ -1,21 +1,21 @@
-==================
-starlingx/election
-==================
+================
+airship/election
+================
 
-This repository contains StarlingX Elections reference documents
+This repository contains Airship Elections reference documents
 and tooling to run elections.
 
 
 Election officials process
 ==========================
 
-The StarlingX election process is currently run manually by the election
+The Airship election process is currently run manually by the election
 officials. We are considering to move to automated steps once the process is
 stablized.
 
-=============
-TSC Elections
-=============
+============
+TS Elections
+============
 
 Selecting Election Dates
 ------------------------
@@ -35,59 +35,59 @@ As early as possible but at least a month before election starts:
 * Update Release Schedule
 
 Preferably a couple of weeks before election starts
-* Send 'TSC Election Season' email
+* Send 'TC Election Season' email
 
 
-TSC Candidacy Round
+TC Candidacy Round
 -------------------
 
-When TSC Candidacy starts:
-* Send 'TSC Nominations Kickoff' email
+When TC Candidacy starts:
+* Send 'TC Nominations Kickoff' email
 
-During the TSC Candidacy round:
+During the TC Candidacy round:
 * To +2 a candidate:
-  * check candidate is a contributor
+  * check candidate is a contributor or has otherwise demonstrated committment to Airship
   * check filename is email address
   * cursory check the candidacy statement
   * check the affiliation information is in commit message
 * To +Workflow, check the previous +2 details
 
 A couple of days before the candidacy submission ends:
-* Send 'TSC Nominations Last Days' email
+* Send 'TC Nominations Last Days' email
 
-When TSC Candidacy submission ends:
-* Send 'TSC End Nominations' email
+When TC Candidacy submission ends:
+* Send 'TC End Nominations' email
 
 
 Once the email deadline is reached:
-* Ask the TSC secretary to tag the governance repository
+* Ask the TC secretary to tag the governance repository
 * Generate the electorate rolls
 
 
-TSC Election Round
+TC Election Round
 ------------------
 
-When TSC Election begins:
+When TC Election begins:
 * Create CIVS page
   * Enable detailed ballot reporting
 * Upload rolls
-* Send 'TSC Voting Kickoff' Email
+* Send 'TC Voting Kickoff' Email
 
-A couple of days before the TSC Election ends:
-* Send 'TSC Voting Last Days' email
+A couple of days before the TC Election ends:
+* Send 'TC Voting Last Days' email
 
-When TSC Election ends:
+When TC Election ends:
 * Close the election
 * Choose the winners based on the available seats accumulating the affiliation
   requirement being no more than 2 members affiliated to the same company
-* Send 'TSC Results' email
+* Send 'TC Results' email
 * Update reference/members in governance repository
-  * Add new members to starlingx/governance/src/branch/master/reference/tsc/members
+  * Add new members to airship/governance/src/branch/master/reference/tc/members
   * Commit change & push review
-* [Optional]Send 'TSC Election Statistics'
+* [Optional]Send 'TC Election Statistics'
 
-===============
-PL/TL Elections
-===============
+===========================
+Working Committee Elections
+===========================
 
 TBD

@@ -3,4 +3,4 @@
       - build-openstack-docs-pti
     post:
       jobs:
-        - publish-stx-election
+        - publish-airship-election

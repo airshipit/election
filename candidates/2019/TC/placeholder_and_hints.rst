@@ -12,7 +12,7 @@ before here are a few tips to help you:
   get elected
 * There is no perfect nomination, make sure you include all talking points
   you would be interested to read in others'
-* Don't forget to send the text to the starlingx-discuss mailing list as well
+* Don't forget to send the text to the airship-discuss mailing list as well
 * For examples and inspiration you can look into the election candidacy folder
   of OpenStack: https://opendev.org/openstack/election/src/branch/master/candidates
 
