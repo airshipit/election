@@ -6,11 +6,11 @@ Airship Elections
 +-----------------+--------------------------+--------------------------+
 | Events          | Start Date               | End Date                 |
 +=================+==========================+==========================+
-| TC Nominations  | June 12, 2019 23:45 UTC  | June 19, 2019 23:45 UTC  |
+| TC Nominations  | June 18, 2019 19:00 UTC  | June 25, 2019 19:00 UTC  |
 +-----------------+--------------------------+--------------------------+
-| TC Campaign     | June 19, 2019 23:45 UTC  | June 26, 2019 23:45 UTC  |
+| TC Campaign     | June 25, 2019 19:00 UTC  | July 2,  2019 19:00 UTC  |
 +-----------------+--------------------------+--------------------------+
-| TC Election     | June 26, 2019 23:45 UTC  | July 3, 2019 23:45 UTC   |
+| TC Election     | July 2,  2019 19:00 UTC  | July 9,  2019 19:00 UTC  |
 +-----------------+--------------------------+--------------------------+
 | WC Nominations  | TBD                      | TBD                      |
 +-----------------+--------------------------+--------------------------+
@@ -136,14 +136,14 @@ repository. Here are the required steps:
 * Clone the election repository:
   git clone https://opendev.org/airship/election.git ; cd election
 * Create a new file
-  candidates/<election_cycle>/<project_name>/<leadership_role>/<email_address>
+  candidates/<election_cycle>/<leadership_role>/<email_address>
   containing the candidate statement.
 * Commit the candidacy:
-  git add candidates/<election_cycle>/<project_name>/<leadership_role>/<email_address>;
+  git add candidates/<election_cycle>/<leadership_role>/<email_address>;
   git commit
 * In the text editor add a title and specify your affiliation like:
 
-  Adding <your_name> candidacy for <project_name> <project_role> role
+  Adding <your_name> candidacy for <leadership_role> role
 
   Affiliation: <company_name>
 * Save the text and exit the text editor
