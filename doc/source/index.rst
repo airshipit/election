@@ -42,7 +42,7 @@ Election Officials
 * Alan Meadows (alanmeadows), alan.meadows at gmail dot com
 * Rodolfo Pacheco (jezogwza), jezogwza at gmail dot com
 
-For any questions, please contact officials by mail or over irc at
+For any questions, please contact officials by mail or over IRC at
 #airshpit Freenode channel.
 
 
@@ -81,9 +81,9 @@ defined by the Airship `Governance`_ document.
 Candidates
 ----------
 
-Anyone who has demonstrated a committment to Airship (community building,
+Anyone who has demonstrated a commitment to Airship (community building,
 communications, or has had code merged to the Airship project repositories)
-within the last 12 months is eleigible to run for the Technical Committee,
+within the last 12 months is eligible to run for the Technical Committee,
 as specified in the Airship `Governance`_ document.
 
 Nominees propose their candidacy by submitting a text file to the
