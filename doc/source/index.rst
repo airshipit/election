@@ -22,6 +22,17 @@ Airship Elections
 
 See `Election system`_, `TC details`_ and `WC details`_.
 
+.. _2019-tc-candidates:
+
+2019 Technical Committee Nominees
+=================================
+
+* `Alexander Hughes <https://opendev.org/airship/election/src/branch/master/candidates/2019/TC/alexander.hughes@pm.me>`_
+* `Alexey Odinokov <https://opendev.org/airship/election/src/branch/master/candidates/2019/TC/aodinokov@mirantis.com>`_
+* `Jaesuk Ahn <https://opendev.org/airship/election/src/branch/master/candidates/2019/TC/bluejay.ahn@gmail.com>`_
+* `James Gu <https://opendev.org/airship/election/src/branch/master/candidates/2019/TC/jgu@suse.com>`_
+* `Jan-Erik Mangs <https://opendev.org/airship/election/src/branch/master/candidates/2019/TC/jan-erik.mangs@ericsson.com>`_
+* `Ryan van Wyk <https://opendev.org/airship/election/src/branch/master/candidates/2019/TC/rv6848@att.com>`_
 
 Election Officials
 ==================
