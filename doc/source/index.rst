@@ -3,36 +3,39 @@ Airship Elections
 =================
 
 
-+-----------------+--------------------------+--------------------------+
-| Events          | Start Date               | End Date                 |
-+=================+==========================+==========================+
-| TC Nominations  | June 18, 2019 19:00 UTC  | June 25, 2019 19:00 UTC  |
-+-----------------+--------------------------+--------------------------+
-| TC Campaign     | June 25, 2019 19:00 UTC  | July 2,  2019 19:00 UTC  |
-+-----------------+--------------------------+--------------------------+
-| TC Election     | July 2,  2019 19:00 UTC  | July 9,  2019 19:00 UTC  |
-+-----------------+--------------------------+--------------------------+
-| WC Nominations  | TBD                      | TBD                      |
-+-----------------+--------------------------+--------------------------+
-| WC Campaign     | TBD                      | TBD                      |
-+-----------------+--------------------------+--------------------------+
-| WC Election     | TBD                      | TBD                      |
-+-----------------+--------------------------+--------------------------+
++-----------------+--------------------------+---------------------------+
+| Events          | Start Date               | End Date                  |
++=================+==========================+===========================+
+| TC Nominations  | June 18, 2019 19:00 UTC  | June 25,  2019 19:00 UTC  |
++-----------------+--------------------------+---------------------------+
+| TC Campaign     | June 25, 2019 19:00 UTC  | July 2,   2019 19:00 UTC  |
++-----------------+--------------------------+---------------------------+
+| TC Election     | July 2,  2019 19:00 UTC  | July 9,   2019 19:00 UTC  |
++-----------------+--------------------------+---------------------------+
+| WC Nominations  | July 16, 2039 19:00 UTC  | July 23,  2019 19:00 UTC  |
++-----------------+--------------------------+---------------------------+
+| WC Campaign     | July 23, 2019 19:00 UTC  | July 30,  2019 19:00 UTC  |
++-----------------+--------------------------+---------------------------+
+| WC Election     | July 30, 2019 19:00 UTC  | August 6, 2019 19:00 UTC  |
++-----------------+--------------------------+---------------------------+
 
 
 See `Election system`_, `TC details`_ and `WC details`_.
 
-.. _2019-tc-candidates:
 
-2019 Technical Committee Nominees
-=================================
+2019 Working Committee candidates
+========================================
 
-* `Alexander Hughes <https://opendev.org/airship/election/src/branch/master/candidates/2019/TC/alexander.hughes@pm.me>`_
-* `Alexey Odinokov <https://opendev.org/airship/election/src/branch/master/candidates/2019/TC/aodinokov@mirantis.com>`_
-* `Jaesuk Ahn <https://opendev.org/airship/election/src/branch/master/candidates/2019/TC/bluejay.ahn@gmail.com>`_
-* `James Gu <https://opendev.org/airship/election/src/branch/master/candidates/2019/TC/jgu@suse.com>`_
-* `Jan-Erik Mangs <https://opendev.org/airship/election/src/branch/master/candidates/2019/TC/jan-erik.mangs@ericsson.com>`_
-* `Ryan van Wyk <https://opendev.org/airship/election/src/branch/master/candidates/2019/TC/rv6848@att.com>`_
+* TBD
+
+Previous Elections
+==================
+
+.. toctree::
+   :maxdepth: 1
+
+   results/2019/tc
+
 
 Election Officials
 ==================
