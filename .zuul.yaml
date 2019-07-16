@@ -16,3 +16,65 @@
     vars:
       rtd_webhook_id: '90677'
       rtd_project_name: 'airship-election'
+    post:
+      jobs:
+        - airship-election-upload-git-mirror
+
+- job:
+    name: airship-election-upload-git-mirror
+    parent: upload-git-mirror
+    description: Mirrors airship/election to airshipit/election
+    vars:
+      git_mirror_repository: airshipit/election
+    secrets:
+      - name: git_mirror_credentials
+        secret: airship-election-airshipit-github-secret
+        pass-to-parent: true
+
+- secret:
+    name: airship-election-airshipit-github-secret
+    data:
+      user: git
+      host: github.com
+      host_key: github.com ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAq2A7hRGmdnm9tUDbO9IDSwBK6TbQa+PXYPCPy6rbTrTtw7PHkccKrpp0yVhp5HdEIcKr6pLlVDBfOLX9QUsyCOV0wzfjIJNlGEYsdlLJizHhbn2mUjvSAHQqZETYP81eFzLQNnPHt4EVVUh7VfDESU84KezmD5QlWpXLmvU31/yMf+Se8xhHTvKSCZIFImWwoG6mbUoWf9nzpIoaSjB+weqqUUmpaaasXVal72J+UX2B+2RPW3RcT0eOzQgqlJL3RKrTJvdsjE3JEAvGq3lGHSZXy28G3skua2SmVi/w4yCE6gbODqnTWlg7+wC604ydGXA8VJiS5ap43JXiUFFAaQ==
+      ssh_key: !encrypted/pkcs1-oaep
+        - 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
