@@ -9,7 +9,7 @@ Election officials process
 
 The Airship election process is currently run manually by the election
 officials. We are considering to move to automated steps once the process is
-stablized.
+stabilized.
 
 TS Elections
 ============
@@ -47,7 +47,7 @@ During the TC Candidacy round:
 
 * To +2 a candidate:
 
-  * check candidate is a contributor or has otherwise demonstrated committment to Airship
+  * check candidate is a contributor or has otherwise demonstrated commitment to Airship
   * check filename is email address
   * cursory check the candidacy statement
   * check the affiliation information is in commit message
