@@ -95,7 +95,7 @@ candidates/<electcycle>/TC/<email_address>.
 The commit message for the patch must contain the candidate's current
 affiliation (company name or 'independent').
 The candidacy is then confirmed by elections officials through gerrit.
-See above `How to submit a candidacy`_ documentation.
+See `How to submit a candidacy`_ documentation below.
 
 
 .. _WC details:
@@ -127,7 +127,7 @@ candidates/<electcycle>/WC/<email_address>.
 The commit message for the patch must contain the candidate's current
 affiliation (company name or 'independent').
 The candidacy is then confirmed by elections officials through gerrit.
-See above `How to submit a candidacy`_ documentation.
+See `How to submit a candidacy`_ documentation below.
 
 
 .. _How to submit a candidacy:
