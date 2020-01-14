@@ -1,0 +1,1 @@
+candidates/2019/WC/placeholder_and_hints.rst
