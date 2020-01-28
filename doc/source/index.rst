@@ -45,6 +45,9 @@ Previous Elections
    :maxdepth: 1
 
    results/2019/tc
+   results/2019/wc
+   results/2020/tc
+   results/2020/wc
 
 
 Election Officials
