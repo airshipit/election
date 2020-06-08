@@ -20,4 +20,3 @@ Results
 * `James Gu <https://opendev.org/airship/election/src/branch/master/candidates/2019/TC/jgu@suse.com>`_
 * `Jan-Erik Mangs <https://opendev.org/airship/election/src/branch/master/candidates/2019/TC/jan-erik.mangs@ericsson.com>`_
 * `Ryan van Wyk <https://opendev.org/airship/election/src/branch/master/candidates/2019/TC/rv6848@att.com>`_
-

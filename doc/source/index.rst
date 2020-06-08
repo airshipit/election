@@ -10,6 +10,7 @@ Welcome to Airship Elections!
     :maxdepth: 2
 
     procedures
+    upcoming
     results/index
 
 .. toctree::
