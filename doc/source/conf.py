@@ -46,9 +46,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Airship Project'
-copyright = '2019, Airship Team'
-author = 'Airship Team'
+project = 'Airship Elections'
+copyright = '2019-2020, The Airship Authors'
+author = 'The Airship Authors'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -114,7 +114,12 @@ html_theme = 'sphinx_rtd_theme'
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
-#html_theme_options = {}
+html_theme_options = {
+    'display_version': False,
+    'logo_only': True
+}
+
+html_logo = 'img/airship.logo.white.svg'
 
 # Add any paths that contain custom themes here, relative to this directory.
 #html_theme_path = []

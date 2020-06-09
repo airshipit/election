@@ -11,14 +11,18 @@
 # limitations under the License.
 
 - project:
-    templates:
-      - docs-on-readthedocs
-    vars:
-      rtd_webhook_id: '90677'
-      rtd_project_name: 'airship-election'
+    check:
+      jobs:
+        - openstack-tox-docs
+    gate:
+      jobs:
+        - openstack-tox-docs
     post:
       jobs:
         - airship-election-upload-git-mirror
+    promote:
+      jobs:
+        - promote-airship-project-docs
 
 - job:
     name: airship-election-upload-git-mirror
