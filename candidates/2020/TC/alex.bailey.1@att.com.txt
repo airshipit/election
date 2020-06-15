@@ -1,0 +1,26 @@
+Hello Airship Community,
+ 
+My name is Alex Bailey, and I'd like to announce my candidacy for the Airship 
+Technical Committee.
+ 
+In 2015, I began my career working in AT&T's Cloud Engineering shop as a Scrum Master 
+where I've had the opportunity to lead many teams with many purposes, ranging from 
+cloud deployment automation to Openstack engineering.  In leading these teams, 
+I've been able to work through, and observe, the challenges experienced by an 
+enterprise grade cloud development shop that led to the creation of Airship.  
+ 
+In late 2018, I was presented with the opportunity to take over as Scrum Master 
+for AT&T's Airship Scrum Team and immediately jumped on it.  My responsibilities 
+as Scrum Master for this team initially consisted of leveraging Airship to 
+deliver AT&T's Network Cloud at scale, but in the past six months my focus has shifted.  
+I'm now responsible for a team of engineers entirely dedicated to the development of Airship 2.
+ 
+In my time with this team, I've seen the Airship community make great strides and 
+significantly mature.  Due to the nature of my current position, I feel I'm in 
+a great spot to help mature the community further and reduce some of our pain 
+points such as the high barriers to entry in the community that I'm sure we've all experienced.  
+As a member of the Technical Committee, I'll work with my partners 
+in the community and my direct scrum to form and implement solutions to our 
+current and future challenges.
+ 
+I appreciate you taking the time to read this and your consideration for the position.
