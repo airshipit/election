@@ -1,0 +1,54 @@
+My name is John (JT) Williams and I'd like to announce my candidacy for election 
+to the Airship Technical Committee.
+
+In the short time that I’ve been involved with the Airship community, I think I've 
+established myself as someone who speaks with technical depth and thought.  During this time, 
+I have used my experience and leadership skills to ensure that Dell developers and Airship 
+goals are aligned.  With my desire to represent Dell EMC as a formal “seat at the table”, I 
+will use this role to help facilitate Dell EMC's customers use cases are incorporated into the 
+project road-map. I believe this is a great opportunity for me to serve Dell's customers, the 
+software community and the Airship Technical Committee.
+
+Currently, I’m a principal developer with Dell EMC for 9+ years and during this time 
+I have been an engineer lead, developing and coding integration solutions utilizing Red
+Hat Enterprise Linux and Dell EMC hardware and software.  Much of my work has been
+focused on simplifying deployments of storage and cloud platforms, specifically 
+Ceph, OpenStack, VxFlex (ScaleIO) and other storage and workload applications.  
+Other development efforts that I have worked on include Dell open source projects, like 
+Crowbar and JetPack which automated the deployment process for OpenStack.
+
+Prior to Dell EMC, I worked at BMC Software for 14 years and Lockheed on Space 
+Station Freedom at NASA for 5+ years, developing PATROL enterprise software and 
+CASE development environments, respectively. During this time, I learned many software
+development disciplines that I have shared and have been beneficial my team members.
+
+When I first heard of Airship, I was seeking an alternative toolset for OpenStack, 
+Openshift and Kubernetes deployments.  This led to the investigation of Airship.  As we 
+became more interested with Airship our management committed to helping with the development
+of several features for which we created two development teams.  I have been focused on 
+leading the teams through their design and coding efforts and committed to meeting the 
+requirements as desired by the Airship 2.0 community.  
+
+Since becoming involved with the Airship 2.0 project late last year, I have been 
+listening and participating in Airship 2.0 community meetings and when the need 
+demands contributing to the discussion. Because the design of Airship 2.0 is led by 
+a strong team of Airship 1.0 contributors, many of the lessons learned from Airship 
+1.0 are brought forward and solved to create the improved version. I see many positives 
+in the Airship 2.0 design.  Specifically, how the team has taken the lessons learned 
+from 1.0 as well as heard the community thoughts on what needs changed and incorporated 
+these ideas into the new design.  I mention this because I see good things happening 
+with individual and team commitment toward making Airship 2.0 a successful endeavor. 
+
+If elected as a contributor to the Technical committee, I believe my ability to contribute
+as a voice for Dell EMC and its customer base would be beneficial to the Airship TC.  I 
+believe the committee is intended to serve as a bridge between companies and the Airship 
+community – making sure corporation’s use cases, requirements, and experiences are brought 
+to the table.  Also in this role I can raise awareness of Airship 2.0 to other organizations
+within Dell EMC that could benefit from Airship 2.0. 
+
+As such, it my goal to represent Dell EMC and its customers desires and also be able to contribute
+to the success of Airship in reaching its goals.
+
+Thank you for your consideration,
+
+-JT
