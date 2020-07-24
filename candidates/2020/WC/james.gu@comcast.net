@@ -1,0 +1,46 @@
+Hello Airship community,
+
+My name is James Gu and I'd like to announce my candidacy for election to
+the Airship Working Committee. I am currently employed by Insight Global.
+
+My journey with Airship started in late 2018 when working for SUSE as a
+product owner/technical lead. I led a team effort of enabling multi Linux
+distro's in Airship, with the goal to expand Airship's user base.
+Collaborating with the OpenStack community, the effort had spanned many
+Airship projects (Treasuremap, Armada, Shipyard, Deckhand, etc.) as well as
+OpenStack Helm project.
+
+Prior to that, I had worked many years in technical leadership role in the
+private cloud space, including workflow and orchestration, monitoring and
+metering, HA and disaster recovery. Some work were directly contributed to
+OpenStack, and other to proprietary technology.
+
+At the end of 2019, I became involved in OPNFV Airship project and was elected
+the PTL in Spring 2020. I work with both the CNTT (Cloud iNfrastructure
+Telco Taskforce) and OPNFV community to develop Airship Installer as a
+Reference Implementation of cloud and NFVi, and support the CNTT Reference
+Conformance Testing and Certification. Some example work includes Treasuremap
+1.8 integration in the CNTT OpenStack Reference implementation and investigating
+the Airship 2.0 POC for CNTT Cloud Native Reference Architecture.
+
+I am also involved in Airship 2.0 development when time allows.
+
+If I am elected, I would like to act as the bridge between the CNTT, OPNFV and
+Airship community. CNTT represents the collective voice of the telco
+operators and vendors. I want to help to feed their requirements and use cases
+into the Airship community timely and regularly, and influence the Airship 2 to
+better aligned with the CNTT direction. Some examples include K8s conformance
+certification and gating, bring your own baremetal/k8s use cases. On the other
+hand, Airship is AFAIK the only cloud technology designed for telco, supporting
+both cloud native and OpenStack, and managing from baremetal and up. I want to
+continue to be an adamant advocate of Airship in the OPNFV and CNTT community,
+hoping that Airship will have a positive impact on the CNTT's technology direction.
+I would also want to ensure Airship 2.0 conform to the CNTT Cloud Native reference
+architecture and implementation specs, and contribute to the CNTT conformance
+certification and testing.
+
+
+Thank you in advance for your consideration.
+
+
+James Gu
