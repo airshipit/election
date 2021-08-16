@@ -50,17 +50,15 @@ and update the Airship wiki page with the new member names.
 Technical Committee Elections
 =============================
 
-Each June, a Technical Committee election selects five candidates to serve on
-the Technical Committee for the following year, no more than two of which may
-be employed by the same company. The Working Committee organizes each Technical
-Committee election.
+Each August, a Technical Committee election selects nine candidates to serve on
+the Technical Committee for the following year, no more than three of which may
+be employed by the same company.
 
 Electorate
 ----------
 
-The electorate for Technical Committee elections includes individuals who
-earned contributor status as defined by Airship `Governance`_ some time in the
-twelve months prior to the nomination period.
+The electorate for the Technical Committee elections includes all Airship core
+reviewers.
 
 Candidates
 ----------
@@ -68,28 +66,6 @@ Candidates
 Anyone who has demonstrated a commitment to Airship (community building,
 communications, or has had code merged to the Airship project repositories)
 within the last twelve months is eligible to run for the Technical Committee.
-
-Working Committee Elections
-===========================
-
-Each July, a Working Committee election selects five candidates to serve on
-the Working Committee for the following year, no more than two of which may
-be employed by the same company. The Technical Committee organizes each Working
-Committee election.
-
-Electorate
-----------
-
-The electorate for the Working Committee elections includes all Airship core
-reviewers.
-
-Candidates
-----------
-
-Any contributor as defined by Airship `Governance`_ can propose their candidacy
-for the working committee.
-
-.. _Submit Your Candidacy:
 
 Submit Your Candidacy
 =====================
