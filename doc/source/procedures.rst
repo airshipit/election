@@ -51,7 +51,7 @@ Technical Committee Elections
 =============================
 
 Each August, a Technical Committee election selects nine candidates to serve on
-the Technical Committee for the following year, no more than three of which may
+the Technical Committee for the following year, no more than four of which may
 be employed by the same company.
 
 Electorate
